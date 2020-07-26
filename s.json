@@ -1,6 +1,7 @@
 {
-"name": "Silver City",
+"name": "Silver City 🗝",
 "description": "Welcome to Silver City! A digital asset stake pool established to grow and multiply your rewards.",
 "ticker": "SILVR",
-"homepage": "https://silvercitystaking.com"
+"homepage": "https://silvercitystaking.com",
+"extended": "https://raw.githubusercontent.com/adosiawolf/m/master/sx.json"
 }
