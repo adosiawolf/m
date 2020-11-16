@@ -1,8 +1,9 @@
 {
 	"info": {
-        "url_png_icon_64x64": "http://roninstake.com/img/ronin-logo-64x64.png",
-        "url_png_logo": "http://roninstake.com/img/ronin-logo.png",
+        "url_png_icon_64x64": "http://roninstake.com/ronin-logo-64x64.png",
+        "url_png_logo": "http://roninstake.com/ronin-logo.png",
         "social": {
+						"twitter_handle": "@RoninStake",
             "facebook_handle": "",
             "youtube_handle": "",
             "twitch_handle": "",
