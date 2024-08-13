@@ -1,6 +1,27 @@
 {
-"itn": {
+	"itn": {
 		"owner": "ed25519_pk1uf7dp4qcvw6mnn2yuqdj33646s0hp8geq8twulwhx8r57dh2gres4knrvq",
 		"witness": "ed25519_sig1xjfx9dmde02kk2n273actfgp0tumrq6w06a6c7v00sy5uaukxqg4dgqyv8n2cwypm6z500882d4t4fs2esk9u20qt2rqawfu302vjzqq5kpfy"
-	}
+	},
+	
+	"info": {
+        	"location": "United States",
+        	"social": {
+            		"twitter_handle": "deepSalud",
+            		"telegram_handle": "",
+            		"facebook_handle": "deepSalud",
+            		"youtube_handle": "",
+            		"twitch_handle": "",
+            		"discord_handle": "",
+	    		"instagram_handle": "deepsalud",
+            		"github_handle": "adosiawolf"
+        	},
+        	"company": {
+            		"name": "deepSalud Health",
+            		"country": "Unites States of America"
+        	},
+        	"about": {
+            		"company": "deepSalud Health is an innovative stake-pool supported digital health practice rewarding patients for engaging in their care."
+        	}
+    	}
 }
