@@ -1,0 +1,119 @@
+{
+  "@context": {
+    "@language": "en-us",
+    "CIP100": "https://github.com/cardano-foundation/CIPs/blob/master/CIP-0100/README.md#",
+    "CIP108": "https://github.com/cardano-foundation/CIPs/blob/master/CIP-0108/README.md#",
+    "CIP119": "https://github.com/cardano-foundation/CIPs/blob/master/CIP-0119/README.md#",
+    "hashAlgorithm": "CIP100:hashAlgorithm",
+    "body": {
+      "@id": "CIP119:body",
+      "@context": {
+        "references": {
+          "@id": "CIP119:references",
+          "@container": "@set",
+          "@context": {
+            "GovernanceMetadata": "CIP100:GovernanceMetadataReference",
+            "Other": "CIP100:OtherReference",
+            "label": "CIP100:reference-label",
+            "uri": "CIP100:reference-uri",
+            "referenceHash": {
+              "@id": "CIP108:referenceHash",
+              "@context": {
+                "hashDigest": "CIP108:hashDigest",
+                "hashAlgorithm": "CIP100:hashAlgorithm"
+              }
+            }
+          }
+        },
+        "comment": "CIP100:comment",
+        "externalUpdates": {
+          "@id": "CIP100:externalUpdates",
+          "@context": {
+            "title": "CIP100:update-title",
+            "uri": "CIP100:update-uri"
+          }
+        },
+        "paymentAddress": "CIP119:paymentAddress",
+        "givenName": "CIP119:givenName",
+        "image": {
+          "@id": "CIP119:image",
+          "@context": {
+            "ImageObject": "https://schema.org/ImageObject"
+          }
+        },
+        "objectives": "CIP119:objectives",
+        "motivations": "CIP119:motivations",
+        "qualifications": "CIP119:qualifications",
+        "title": "CIP108:title",
+        "abstract": "CIP108:abstract",
+        "rationale": "CIP108:rationale"
+      }
+    },
+    "authors": {
+      "@id": "CIP100:authors",
+      "@container": "@set",
+      "@context": {
+        "name": "http://xmlns.com/foaf/0.1/name",
+        "witness": {
+          "@id": "CIP100:witness",
+          "@context": {
+            "witnessAlgorithm": "CIP100:witnessAlgorithm",
+            "publicKey": "CIP100:publicKey",
+            "signature": "CIP100:signature"
+          }
+        }
+      }
+    }
+  },
+  "hashAlgorithm": "blake2b-256",
+  "body": {
+    "title": "Kyle Solomon - DRep",
+    "abstract": "My name is Kyle Solomon, I am a full-time Cardano entrepreneur and operator of the FROG Stake Pool since the early ITN (Incentivized Testnet). I co-founded DripDropz, run the FROG stake pools and work with Intersect to help carve commercialization paths for Cardano.",
+    "motivations": "My primary goals are to facilitate the conditions for adoption to occur on Cardano, to grow sustaining transaction volume, and to preserve and attract high-grade talent to operate within the ecosystem.",
+    "rationale": "Rewards reserves are depleting and achieving commercial adoption and sustainable transaction volume is paramount to the health, viability and longevity of Cardano.",
+    "paymentAddress": "addr1qyf3yha7gynxf4uts730u6yyugmqxm2t0wrt5jxp8xmrqgua6td6k3kkeatfsxy4gqaexh4kxxnhlsh9xqlgj7s26z6qnkwmhv",
+    "givenName": "Kyle Solomon",
+    "image": {
+      "@type": "ImageObject",
+      "contentUrl": "https://raw.githubusercontent.com/adosiawolf/m/master/solomon-team-400x400.jpeg",
+      "sha256": "a6753d6d81c9e134d6836a54ff4ab7661a4d15252887716c3749f4e5376bb354"
+    },
+    "objectives": "I am doing testing and developent on cardano in all Testnets, working together with many other tool-providers to push cardano forward.",
+    "qualifications": "CEO DripDropz, AdaFrog Stake Pool Operator, Intersect Working Group participant, Minter of spacecoins and owner of SpaceBud #3",
+    "references": [
+      {
+        "@type": "Other",
+        "label": "DripDropz",
+        "uri": "https://dripdropz.io"
+      },
+      {
+        "@type": "Other",
+        "label": "Kyle Solomon LinkedIn",
+        "uri": "https://www.linkedin.com/in/kesolomon/"
+      },
+      {
+        "@type": "Other",
+        "label": "AdaFrog Twitter",
+        "uri": "https://x.com/ADAFrog_Pool"
+      },
+      {
+        "@type": "Other",
+        "label": "Kyle Solomon Twitter",
+        "uri": "https://x.com/adosiawolf"
+      },
+      {
+        "@type": "Other",
+        "label": "AdaFrog - Cardano Stake Pool FROG",
+        "uri": "https://adafrog.io"
+      }
+    ],
+    "comment": "My name is Kyle Solomon, I am a full-time Cardano entrepreneur and operator of the FROG Stake Pool since the early ITN (Incentivized Testnet). I co-founded DripDropz, run the FROG stake pools and work with Intersect to help carve commercialization paths for Cardano.",
+    "externalUpdates": [
+      {
+        "title": "Github",
+        "uri": "https://github.com/adosiawolf"
+      }
+    ]
+  },
+  "authors": []
+}
