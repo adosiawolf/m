@@ -1,0 +1,7 @@
+{
+"name": "YAM Pool",
+"description": "Your ADA Matters! We maintain our nodes, laugh at ourselves, and promise only what we can deliver: a reliable pool that treats your ADA like it matters... because it does.",
+"ticker": "YAM",
+"homepage": "https://yampool.giiyotech.com",
+"extended": "https://raw.githubusercontent.com/adosiawolf/m/master/yamx"
+}
