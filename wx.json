@@ -13,23 +13,21 @@
             "github_handle": "adosiawolf"
         },
         "company": {
-            "name": "Adosia LLC",
+            "name": "Lobolobo LLC",
             "country": "Unites States of America"
         },
         "about": {
             "me": "I am a multidisciplined engineer working to bring value to the Cardano ecosystem",
-            "server": "18 node cloud configuration designed for high connectivity and rapid migration",
-            "company": "ADAwolf supports the Adosia IoT project's efforts to tokenize on Cardano"
+            "server": "hybrid configuration designed for high connectivity and rapid migration",
+            "company": "AdaWolf supports business and development efforts driving real world adoption on Cardano"
         }
     },
     "my-pool-ids": {
-        "0": "00000368a25a58d3c46bea611ddabf77679b8d1fd854c75a41ea399c",
-        "1": "516fe4e20724ad0a9f8ace8b9be7ca778417a5e71cf500717d175792"
+        "0": "00000368a25a58d3c46bea611ddabf77679b8d1fd854c75a41ea399c"
     },
     "when-satured-then-recommend": {
-        "0": "516fe4e20724ad0a9f8ace8b9be7ca778417a5e71cf500717d175792",
-        "1": "00000110093effbf3ce788aebd3e7506b80322bd3995ad432e61fad5",
-        "2": "000001b844f4e4c900ae0dfdc84a8845f71090b82fb473e6c70a31ee"
+        "0": "00000110093effbf3ce788aebd3e7506b80322bd3995ad432e61fad5",
+        "1": "000001b844f4e4c900ae0dfdc84a8845f71090b82fb473e6c70a31ee"
     },
     "telegram-admin-handle": {
         "0": "adosiawolf"
