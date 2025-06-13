@@ -1,0 +1,28 @@
+{
+	"info": {
+        "url_png_icon_64x64": "https://adafrog.io/img/adawolf-logo-64x64.png",
+        "url_png_logo": "https://adafrog.io/img/adawolf-logo.png",
+        "location": "United States",
+        "social": {
+            "twitter_handle": "ADAfrog_Pool",
+            "telegram_handle": "adosiawolf",
+            "facebook_handle": "",
+            "youtube_handle": "",
+            "twitch_handle": "",
+            "discord_handle": "",
+            "github_handle": "adosiawolf"
+        },
+        "company": {
+            "name": "LoboLoco LLC",
+            "country": "Unites States of America"
+        },
+        "about": {
+            "me": "I am a multidisciplined engineer working to bring value to the Cardano ecosystem",
+            "server": "hybrid configuration designed for high connectivity and rapid migration",
+            "company": "AdaWolf supports business and development efforts driving real world adoption on Cardano"
+        }
+    },
+    "telegram-admin-handle": {
+        "0": "adosiawolf"
+    }
+}
